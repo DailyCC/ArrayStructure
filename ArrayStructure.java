@@ -1,8 +1,8 @@
 import java.util.*;
 
 /*
-WHAT IS IT?
-    INSERTING, SEARCHING AND DELETING VALUE FROM AN ARRAY 
+What's the code for?
+- INSERTING, SEARCHING AND DELETING VALUE FROM AN ARRAY 
 
 */
 
@@ -19,6 +19,7 @@ public class ArrayStructure{
         }
     }
 
+    
     // function use to print the array
     public void printArray(){
 
